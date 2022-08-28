@@ -1,0 +1,27 @@
+.container-cart {
+    background: #FFE0B3;
+    overflow: hidden;
+    height: 100%;
+    width: auto;
+    text-align: center;
+    /* position: fixed;
+    right: 0;
+    border: 1px solid black; */
+
+}
+
+.container-cart button {
+    width: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.cart-btn-clear {
+    margin-bottom: 17px;
+    background: red;
+}
+
+.cart-btn-review {
+    background: orange;
+}

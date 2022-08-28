@@ -6,6 +6,9 @@
     align-items: center;
     padding-left: 140px;
     padding-right: 140px;
+    /* position: fixed;
+    top: 0;
+ */
 }
 
 .header a{
